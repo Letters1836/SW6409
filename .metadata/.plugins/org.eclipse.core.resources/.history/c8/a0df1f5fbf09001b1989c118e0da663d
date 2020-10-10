@@ -1,0 +1,13 @@
+package com.example.webDevCourse.models;
+
+public class Course {
+
+	@Entity
+	public class Course {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	Integer id;
+	String title;
+	String authorName;
+	
+}

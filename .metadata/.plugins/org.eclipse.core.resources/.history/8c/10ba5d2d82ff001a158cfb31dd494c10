@@ -1,0 +1,5 @@
+package com.sw409.Patient.repositories;
+
+public class PatientRepository {
+
+}

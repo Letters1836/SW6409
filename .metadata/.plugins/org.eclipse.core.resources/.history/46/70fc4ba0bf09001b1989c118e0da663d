@@ -1,0 +1,5 @@
+package com.example.webDevCourse.repositories;
+
+public class CourseRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.example.webDevCourse.models;
+
+public class Course {
+
+}

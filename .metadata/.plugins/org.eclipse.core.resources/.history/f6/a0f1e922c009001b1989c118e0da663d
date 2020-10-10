@@ -1,0 +1,10 @@
+package com.example.webDevCourse.repositories;
+
+@Service
+public class CourseService {
+	@Autowired
+	CourseRepository courseRepository;
+	public ArrayList<Course> getAllCourses() {
+		return (ArrayList<Course>) courseRepository.findAll();
+	}
+}
