@@ -1,5 +1,0 @@
-package com.example.webDevCourse.repositories;
-
-public interface CourseRepository extends CrudRepository<Course, Integer> {
-
-}
